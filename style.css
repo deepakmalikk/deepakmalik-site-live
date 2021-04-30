@@ -48,7 +48,7 @@ hr{
 .navigation{
     background-color: var(--primary-color);
     color: white;
-    padding: 0.5rem;
+    padding: 0.2rem;
     border-bottom-left-radius: 1rem;
    
 }
@@ -58,7 +58,7 @@ hr{
 }
 .navigation .navpills{
     text-align: right;
-     margin: auto;
+   
 }
 
 .navigation .nav-brand{
